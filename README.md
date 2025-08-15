@@ -1,4 +1,3 @@
-````
 # 🧠 TeckyBot: News Research & Q&A Tool
 
 TeckyBot is a Streamlit-based web app that lets users input any **two article URLs**, extracts the full text from those sites, and allows users to ask **natural language questions** about the content. Powered by **Google's Gemini 1.5 Flash** model, it ensures answers are strictly based on the provided context.
